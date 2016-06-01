@@ -13,6 +13,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello User,Welcome 2 Git");
 		System.out.println("Second sysout statement");
+		System.out.println("Adding a new sysout after importing project");
 
 	}
 
