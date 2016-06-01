@@ -12,6 +12,7 @@ public class Main {
 	private static void greetHello() {
 		// TODO Auto-generated method stub
 		System.out.println("Hello User,Welcome 2 Git");
+		System.out.println("Second sysout statement");
 
 	}
 
